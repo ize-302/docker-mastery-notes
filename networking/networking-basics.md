@@ -22,7 +22,7 @@ A private network which comprises of set of devices or machines talking with eac
 
   ###
 
-![illustration show network architect and communication](./illustrations/local_area_networks.png "illustration show network architect and communication")
+![illustration show network architect and communication](/illustrations/local_area_networks.png "illustration show network architect and communication")
 
 ### WAN - Wide Area Network
 
@@ -33,10 +33,10 @@ A private network which comprises of set of devices or machines talking with eac
 - #### DMZ (Demilitarized Zone) or perimeter network
 
   It is an area that is isolated from the rest of the network to allow access to attached devices from both internal network and the internet. It is a way of protecting a private internal network while allowing access to specific machines or services and at the same time minimizing the potential risks associated with direct exposure to external networks. It typically does this with the use of firewall to monitor and control access
-  ![illustration of DMZ using one firewall ](./illustrations/dmz_1_firewall.png "illustration of DMZ using one firewall")
+  ![illustration of DMZ using one firewall ](/illustrations/dmz_1_firewall.png "illustration of DMZ using one firewall")
   illustration of DMZ using one firewall
 
-![illustration of DMZ using two firewalls ](./illustrations/dmz_2_firewalls.png "illustration of DMZ using two firewalls")
+![illustration of DMZ using two firewalls ](/illustrations/dmz_2_firewalls.png "illustration of DMZ using two firewalls")
 illustration of DMZ using two firewalls
 
 - #### Port Forwarding

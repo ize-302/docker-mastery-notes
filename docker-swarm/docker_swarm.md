@@ -65,7 +65,7 @@ docker swarm join-token manager
 
 Note: One great thing about container ochestration system, it is resposible for and ensures that all services specified are always running is a way that even if one or more of themm shuts down, they automatically get replaced within seconds. This is different from docker run where it is not able to automatically restart a container if there is a shutdown outcome or failure
 
-![Docker swarm illustration](./illustrations/docker-swarm-illustration.png "Docker swarm illustration")
+![Docker swarm illustration](/illustrations/docker-swarm-illustration.png "Docker swarm illustration")
 
 ###
 
